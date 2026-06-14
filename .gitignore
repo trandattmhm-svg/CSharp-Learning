@@ -1,0 +1,11 @@
+﻿## Thư mục sinh ra khi build code C#
+[Bb]in/
+[Oo]bj/
+
+## Thư mục cấu hình ẩn của Visual Studio
+.vs/
+*.user
+*.suo
+
+## Thư mục cấu hình của VS Code (nếu có dùng)
+.vscode/
